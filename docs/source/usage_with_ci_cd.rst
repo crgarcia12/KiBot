@@ -91,7 +91,7 @@ ghcr.io/inti-cmnb/kicad5_auto_full:1.8.3  1.8.3        5.1.9
 ghcr.io/inti-cmnb/kicad6_auto_full:1.8.3  1.8.3        6.0.11
 ghcr.io/inti-cmnb/kicad7_auto_full:1.8.3  1.8.3        7.0.11
 ghcr.io/inti-cmnb/kicad8_auto_full:1.8.3  1.8.3        8.0.8
-ghcr.io/inti-cmnb/kicad9_auto_full:1.8.3  1.8.3        9.0.0
+ghcr.io/inti-cmnb/kicad9_auto_full:1.8.3  1.8.3        9.0.3
 ghcr.io/inti-cmnb/kicad5_auto_full:1.8.2  1.8.2        5.1.9
 ghcr.io/inti-cmnb/kicad6_auto_full:1.8.2  1.8.2        6.0.11
 ghcr.io/inti-cmnb/kicad7_auto_full:1.8.2  1.8.2        7.0.11
@@ -296,7 +296,7 @@ v2_1_8_3    2   1.8.3        5.1.9
 v2_k6_1_8_3 2   1.8.3        6.0.11
 v2_k7_1_8_3 2   1.8.3        7.0.11
 v2_k8_1_8_3 2   1.8.3        8.0.8
-v2_k9_1_8_3 2   1.8.3        9.0.0
+v2_k9_1_8_3 2   1.8.3        9.0.3
 v2          2   last release 5.1.9
 v2_k6       2   last release 6.0.11
 v2_k7       2   last release 7.0.11
